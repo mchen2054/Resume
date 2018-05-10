@@ -1,0 +1,120 @@
+What is 20 + 10?
+A. 30
+B. 10
+C. 21
+D. 20
+A
+What is 19 + 10?
+A. 21
+B. 29
+C. 39
+D. 26
+B
+What is 20 - 10?
+A. 40
+B. 21
+C. 10
+D. 30
+C
+What is 50 + 10?
+A. 40
+B. 30
+C. 50
+D. 60
+D
+What is 50 - 10?
+A. 40
+B. 30
+C. 20
+D. 50
+A
+What is 28 + 10?
+A. 28
+B. 38
+C. 36
+D. 40
+B
+What is 28 - 10?
+A. 33
+B. 38
+C. 18
+D. 23
+C
+What is 60 + 10?
+A. 50
+B. 55
+C. 35
+D. 70
+D
+What is 60 - 10?
+A. 50
+B. 45
+C. 40
+D. 70
+A
+What is 70 + 10?
+A. 60
+B. 80
+C. 65
+D. 70
+B
+What is 70 - 10?
+A. 80
+B. 50
+C. 60
+D. 40
+C
+What is 35 + 10?
+A. 25
+B. 35
+C. 40
+D. 45
+D
+What is 35 - 10?
+A. 25
+B. 45
+C. 55
+D. 50
+A
+What is 30 + 10?
+A. 20
+B. 40
+C. 25
+D. 50
+B
+What is 30 - 10?
+A. 40
+B. 50
+C. 20
+D. 25
+C
+What is 45 + 10?
+A. 70
+B. 65
+C. 35
+D. 55
+D
+What is 45 - 10?
+A. 35
+B. 45
+C. 55
+D. 50
+A
+What is 75 + 10?
+A. 60
+B. 85
+C. 45
+D. 65
+B
+What is 75 - 10?
+A. 30
+B. 45
+C. 35
+D. 65
+C
+What is 25 + 10?
+A. 40
+B. 30
+C. 15
+D. 35
+D

@@ -1,0 +1,120 @@
+What is 4 + 6?
+A. 10
+B. 11
+C. 9
+D. 13
+A
+What is 3 + 4?
+A. 1
+B. 7
+C. 6
+D. 8
+B
+What is 2 + 8?
+A. 6
+B. 11
+C. 10
+D. 4
+C
+What is 7 + 3?
+A. 5
+B. 2
+C. 4
+D. 10
+D
+What is 5 + 3?
+A. 8
+B. 2
+C. 9
+D. 7
+A
+What is 8 + 2?
+A. 5
+B. 10
+C. 6
+D. 11
+B
+What is 5 + 4?
+A. 1
+B. 7
+C. 9
+D. 6
+C
+What is 10 + 1?
+A. 9
+B. 8
+C. 12
+D. 11
+D
+What is 10 + 5?
+A. 15
+B. 5
+C. 16
+D. 3
+A
+What is 3 + 2?
+A. 1
+B. 5
+C. 8
+D. 6
+B
+What is 4 + 2?
+A. 2
+B. 8
+C. 6
+D. 3
+C
+What is 2 + 4?
+A. 8
+B. 4
+C. 2
+D. 6
+D
+What is 6 + 3?
+A. 9
+B. 7
+C. 3
+D. 5
+A
+What is 4 + 4?
+A. 0
+B. 8
+C. 6
+D. 10
+B
+What is 4 + 1?
+A. 3
+B. 8
+C. 5
+D. 4
+C
+What is 7 + 2?
+A. 7
+B. 5
+C. 10
+D. 9
+D
+What is 6 + 4?
+A. 10
+B. 2
+C. 13
+D. 8
+A
+What is 3 + 3?
+A. 9
+B. 6
+C. 0
+D. 13
+B
+What is 5 + 5?
+A. 5
+B. 0
+C. 10
+D. 8
+C
+What is 10 + 2?
+A. 8
+B. 20
+C. 13
+D. 12
+D
